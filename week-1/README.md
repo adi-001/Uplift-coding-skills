@@ -5,7 +5,7 @@ Tutorial link: https://www.hackerearth.com/practice/basic-programming/input-outp
 ### Guidelines To Contribute: 
 Upload your solutions file within your Name directory: 
 ```
-DayNumber_ProblemNumber.extension✔️(Prefer this)            Eg:  Day1_P1.cpp 
+DayNumber_ProblemNumber.extension✔️(Prefer this)            Eg:     Day1_P1.cpp 
 Or
 ProblemName_YourName.cpp .java or .py                                Eg:  UpwardTriangle_adi.cpp
 ```

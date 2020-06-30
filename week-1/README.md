@@ -20,7 +20,7 @@ Patterns using Cpp: https://www.programiz.com/cpp-programming/examples/pyramid-p
 Some more questions: https://www.faceprep.in/c/pattern-programs-in-c/ <br>
 Additional questions: https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-c/ <br>
 
-## Day 1 - June 7,2020
+## Day 1 
 
 1. Take a I/P number, print its square
 

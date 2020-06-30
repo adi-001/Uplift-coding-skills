@@ -1,4 +1,4 @@
-[Day 1 to 10 Problems ](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/ReadME_1to10.md)
+[Day 1 to 7 Problems ](https://github.com/adi-001/Uplift-coding-skills/blob/master/week-1/README.md)
 
 
 ## Day 8 Problems

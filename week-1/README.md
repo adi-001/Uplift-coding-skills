@@ -3,7 +3,7 @@ Week 1 Problems:
 Tutorial link: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/ <br>
 
 ### Guidelines To Contribute: 
-Upload your solutions file within your Name directory: 
+Upload your solutions file within your Name branch: 
 ```
 DayNumber_ProblemNumber.extension✔️(Prefer this)            Eg:     Day1_P1.cpp 
 Or

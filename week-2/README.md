@@ -45,4 +45,5 @@ Linked lists resources to study from- https://docs.google.com/document/d/1TeniAE
 3. [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) <br>
 4. [Pairwise swap elements of a linked list](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1) <br>
 5. [Remove duplicate element from sorted Linked List](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) <br>
-
+     ------------ OR --------------------
+     solve the questions found : [here](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists)

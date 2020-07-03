@@ -406,3 +406,4 @@ Resources to read from: https://docs.google.com/document/d/1GKOcQCGw3T4kSD0G5dck
 ## Further
 
 (100 Coding  Problems for future)[https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7]
+(Even if you feell these above ones boring) [https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp]

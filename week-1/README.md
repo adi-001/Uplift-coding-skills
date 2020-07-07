@@ -62,8 +62,8 @@ Print: 3x1=3
      *
 
 ```
-## Day 2 Problems
-1. Take N(number of rows), print the following pattern( ex: N=4)
+
+6. Take N(number of rows), print the following pattern( ex: N=4)
 ``` 
     0
     1 1
@@ -71,14 +71,14 @@ Print: 3x1=3
     8 13 21 34
  ```
 
- 2. Take N(number of rows), print following pattern (N=4)
+ 7. Take N(number of rows), print following pattern (N=4)
   ``` 
       1           1
       1 2       2 1
       1 2 3   3 2 1
       1 2 3 4 3 2 1
    ```
-  3.Take N(number of rows), print following pattern (N=5)
+  8.Take N(number of rows), print following pattern (N=5)
   ``` 
   1 2 3 4 5
   1 2 3 4 *
@@ -86,7 +86,7 @@ Print: 3x1=3
   1 2 * * * * *
   1 * * * * * * *
   ```
- 4.Take the following as input: number <br>
+ 9.Take the following as input: number <br>
  Write a function which returns true if the number is an armstrong number and false otherwise, where Armstrong number is <br>      defined as follows. 
  ```A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if. <br>
 abcd… = pow(a,n) + pow(b,n) + pow(c,n) + pow(d,n) + …. <br>
@@ -98,7 +98,7 @@ sample case
 input-371
 output-true
 ```
-5. Given a binary number ,find out its decimal representation. 
+10. Given a binary number ,find out its decimal representation. 
 For eg 000111 in binary is 7 in decimal.
 Input Format <br>
 The first line contains N , the number of binary numbers. Next N lines contain N integers each representing binary represenation of number. <br>
@@ -121,7 +121,7 @@ Sample output <br>
     63
  ```
 
-## Day 3
+## Day 2 
 
 1. Take n elements as I/P, print max, min, sum of them. 
 ```
@@ -162,8 +162,8 @@ O/P :
 3
 Explanation : Differences : |1-3|=2, |3-2|=1, |2-5|=3. MAX DIFFERENCE : 3
 ```
-## Day 4 
-1. Given an array A of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found.
+
+5. Given an array A of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found.
 ```
 Eg:
 Input: 
@@ -172,7 +172,7 @@ Input:
 Output: 
 9
 ```
-2. Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
+6. Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
 ```
 Eg: 
 Input:
@@ -181,7 +181,7 @@ Input:
 Output:
 9
 ```
-3. Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.
+7. Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.
 ```
 Eg:
 Input:
@@ -190,7 +190,7 @@ Input:
 Output:
 0 0 1 2 2
  ```
-4. Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.
+8. Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.
 ```
 Eg:
 Input:
@@ -201,7 +201,7 @@ Output:
 7
 Explanation:3rd smallest element in the given array is 7.
 ```
-5. Take as input N, the size of array. Take N more inputs and store that in an array. Take as input “target”, a number. Write a Program which prints all pairs of numbers which sum to target.
+9. Take as input N, the size of array. Take N more inputs and store that in an array. Take as input “target”, a number. Write a Program which prints all pairs of numbers which sum to target.
 ```
 Eg:
 Input: 
@@ -213,7 +213,7 @@ Output:
 2 and 3
 Explanation: Find any pair of elements in the array which has sum equal to target element and print them.
 ```
-## Day 5 ( 2D Arrays )
+### Day 4 (2D Arrays)
 
 1. Find Zigzag Sum (For Square Matrices Only)
 ```

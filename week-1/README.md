@@ -213,7 +213,7 @@ Output:
 2 and 3
 Explanation: Find any pair of elements in the array which has sum equal to target element and print them.
 ```
-### Day 4 (2D Arrays)
+### Day 3 (2D Arrays)
 
 1. Find Zigzag Sum (For Square Matrices Only)
 ```
@@ -285,7 +285,7 @@ More Practise Problems on Arrays:[here](https://www.interviewbit.com/courses/pro
 ## Resources related to Searching and Sorting : 
 https://docs.google.com/document/d/1vR5BLH5borpibYjQ0R6y00zgo-RP5JdkejS_3ilU-DI/edit?usp=sharing  <br>
 https://codeburst.io/algorithms-i-searching-and-sorting-algorithms-56497dbaef20
-## Day 5
+## Day 4
 1. Given an array of integers, sort the array according to frequency of elements. That is elements that have higher frequency come first. If frequencies of two elements are same, then smaller number comes first.
 ```
 Eg:
@@ -343,7 +343,7 @@ Output:
 0
 Explanation: 62 is not present in the matrix, so output is 0.
 ```
-## Day 6- Arrays & Maths & Pointer concepts:
+## Day 5- Arrays & Maths & Pointer concepts:
 Note: Try to run your code on the links provided so that you know it passes all corner test cases as well & then upload your soln here.
 
 Task: [Pointer Resources](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)

@@ -1,2 +1,2 @@
 # Uplift-coding-skills
-Let's uplift our coding skills this semester
+Let's uplift our coding skills this summer

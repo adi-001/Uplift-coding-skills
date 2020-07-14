@@ -1,4 +1,4 @@
-Week 1 Problems: 
+Week 1 Problemo: 
 
 Tutorial link: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/ <br>
 
